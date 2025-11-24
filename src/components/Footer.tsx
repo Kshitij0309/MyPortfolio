@@ -36,9 +36,9 @@ export const Footer = () => {
           </div>
 
           <div className="flex items-center gap-2 text-muted-foreground">
-            <span>© {currentYear} John Doe. Made with</span>
-            <Heart className="w-4 h-4 fill-accent text-accent animate-pulse" />
-            <span>and code</span>
+            <span>© {currentYear} Kshitij Mishra </span>
+            
+            <span></span>
           </div>
         </div>
       </div>
